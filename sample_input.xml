@@ -1,0 +1,40 @@
+<page>
+    <title>Gettysburg Address</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>5224081</id>
+      <parentid>5224080</parentid>
+      <timestamp>2015-01-29T23:41:32Z</timestamp>
+      <contributor>
+        <username>George Orwell III</username>
+        <id>127447</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{featured}}{{with Title to specify whether to prepend the article title in the plain text.
+[[Category:American Civil War]]
+[[category:American speeches]]</text>
+      <sha1>6y3a679qpc3nry6hezlapywyb1744cc</sha1>
+    </revision>
+  </page>
+<page>
+    <title>Gettysburg Address</title>
+    <ns>0</ns>
+    <id>2</id>
+    <revision>
+      <id>5224081</id>
+      <parentid>5224080</parentid>
+      <timestamp>2015-01-29T23:41:32Z</timestamp>
+      <contributor>
+        <username>George Orwell III</username>
+        <id>127447</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{featured}}{{
+[[Category:European Civil War]]
+[[category:European speeches]]</text>
+      <sha1>6y3a679qpc3nry6hezlapywyb1744cc</sha1>
+    </revision>
+  </page>
